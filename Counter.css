@@ -1,38 +1,35 @@
-
- /* total body styling*/
-body{
-    margin-top: 150px;
-    text-align: center;
-    background-color: lightblue;
+/* total body styling*/
+body {
+  margin-top: 150px;
+  text-align: center;
+  background-color: lightblue;
 }
 
 /* counter background and text styling*/
-.counter_div{
-
-    background-color: black;
-    color: white;
-    margin-top: 50px;
+.counter_div {
+  background-color: black;
+  color: white;
+  margin-top: 50px;
 }
 
 /* increment button styling*/
 
-.btn-increment{
-    background-color: green;
-    height: 50px;
-    width: 250px;
-    border-radius: 15px;
-    margin-right: 50px;
-    margin-top: 25px;
-    border: none;
+.btn-increment {
+  background-color: rgb(100, 201, 91);
+  height: 50px;
+  width: 250px;
+  border-radius: 15px;
+  margin-right: 50px;
+  margin-top: 25px;
+  border: none;
 }
-
 
 /* decrement button styling*/
 
-.btn-decrement{
-    background-color: red;
-    height: 50px;
-    width: 250px;
-    border-radius: 15px;
-    border: none;
+.btn-decrement {
+  background-color: rgb(253, 65, 65);
+  height: 50px;
+  width: 250px;
+  border-radius: 15px;
+  border: none;
 }
